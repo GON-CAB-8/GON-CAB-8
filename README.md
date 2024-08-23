@@ -1,7 +1,11 @@
 ![Banner](https://raw.githubusercontent.com/GON-CAB-8/GON-CAB-8/main/images/GON-CAB-8-BANNER-BNW.png)
 
 ## 💼 About Me:
-Hi, I’m Martin, a developer with a strong passion for backend and web development. I’m currently honing my skills to become a proficient fullstack developer. My goal is to create reliable and high-performing web applications while continuously learning and growing in the field.
+
+Hi, I’m Martin, a developer with a strong interest in backend and web development. I’m working on becoming a fullstack developer, aiming to create dependable and high-performance web applications. I enjoy tackling challenges and continuously learning new things to improve my skills.
+
+I’m looking for opportunities to work on interesting projects and collaborate with others who are passionate about technology. If you’d like to get in touch, you can email me at [cabralmartin8@gmail.com](mailto:cabralmartin8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gnzl8).
+
 
 ## 🛠️ My Tech Stack
 
