@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/GON-CAB-8/GON-CAB-8/main/images/GON-CAB-8-BANNER-BNW.png)
+
 ## 💼 About Me:
 Hi, I’m Martin, a developer with a strong passion for backend and web development. I’m currently honing my skills to become a proficient fullstack developer. My goal is to create reliable and high-performing web applications while continuously learning and growing in the field.
 
