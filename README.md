@@ -63,14 +63,16 @@ I’m looking for opportunities to work on interesting projects and collaborate 
 
 ### 💻 Profile Stats
 
-<img alt="Martin Gonzalo Cabral's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=GON-CAB-8&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Martin Gonzalo Cabral's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GON-CAB-8&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<p align="center">
+  <img alt="Martin Gonzalo Cabral's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=GON-CAB-8&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+  <img alt="Martin Gonzalo Cabral's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GON-CAB-8&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+</p>
 
 ### 🔥 Streak Stats
 
-![Martin Gonzalo Cabral's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=GON-CAB-8&theme=tokyonight)
-
-![Martin's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GON-CAB-8&bg_color=1F222E&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true)
-
+<p align="center">
+  <img alt="Martin Gonzalo Cabral's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GON-CAB-8&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
 
 ---
 
