@@ -72,6 +72,7 @@ I’m looking for opportunities to work on interesting projects and collaborate 
 ---
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=GON-CAB-8&label=Profile%20Views&color=3&icon=3&pretty=false)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=GON-CAB-8&label=Profile%20Views&color=3&icon=3&pretty=false" alt="Profile Views" />
 </p>
+
 
