@@ -69,6 +69,9 @@ I’m looking for opportunities to work on interesting projects and collaborate 
 
 ![Martin Gonzalo Cabral's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=GON-CAB-8&theme=tokyonight)
 
+![Martin's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GON-CAB-8&bg_color=1F222E&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true)
+
+
 ---
 
 <p align="center">
