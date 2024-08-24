@@ -1,10 +1,14 @@
+<p align="center">Backend Developer | Passionate Board Gamer | Out-of-the-Box Thinker</p>
+
 ![Banner](https://raw.githubusercontent.com/GON-CAB-8/GON-CAB-8/main/images/GON-CAB-8-BANNER-BNW.png)
 
 ## 💼 About Me:
 
-Hi, I’m Martin, a developer with a strong interest in backend and web development. I’m working on becoming a fullstack developer, aiming to create dependable and high-performance web applications. I enjoy tackling challenges and continuously learning new things to improve my skills.
+Hi, I’m Martin, a developer with a strong focus on backend and web development. I’m on a journey to become a fullstack developer, aiming to create reliable and high-performance web applications. I enjoy tackling challenges and continuously learning to refine my skills.
 
-I’m looking for opportunities to work on interesting projects and collaborate with others who are passionate about technology. If you’d like to get in touch, you can email me at [cabralmartin8@gmail.com](mailto:cabralmartin8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gnzl8).
+I’m driven by the desire to solve complex problems and push my abilities to the next level.
+
+I’m always on the lookout for opportunities to work on exciting projects and collaborate with others who share a passion for technology. If you’d like to connect, feel free to reach out via email at [cabralmartin8@gmail.com](mailto:cabralmartin8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gnzl8).
 
 
 ## 🛠️ My Tech Stack
