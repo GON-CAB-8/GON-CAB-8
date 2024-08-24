@@ -74,6 +74,13 @@ I’m looking for opportunities to work on interesting projects and collaborate 
   <img alt="Martin Gonzalo Cabral's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GON-CAB-8&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
+### 📊 Activity Graph
+
+<p align="center">
+  <img alt="Martin's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GON-CAB-8&bg_color=1F222E&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" height="200px"/>
+</p>
+
+
 ---
 
 <p align="center">
