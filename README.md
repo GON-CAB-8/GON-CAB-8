@@ -69,7 +69,9 @@ I’m always on the lookout for opportunities to work on exciting projects and c
 
 <p align="center">
   <img alt="Martin Gonzalo Cabral's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=GON-CAB-8&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GON-CAB-8&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+  <img alt="Martin Gonzalo Cabral's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GON-CAB-8&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+</p>
+
 ### 🔥 Streak Stats
 
 <p align="center">
@@ -81,6 +83,7 @@ I’m always on the lookout for opportunities to work on exciting projects and c
 <p align="center">
   <img alt="Martin's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GON-CAB-8&bg_color=1F222E&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" height="200px"/>
 </p>
+
 
 
 ---
