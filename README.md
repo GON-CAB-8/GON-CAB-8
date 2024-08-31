@@ -68,29 +68,28 @@ I’m always on the lookout for opportunities to work on exciting projects and c
 ### 💻 Profile Stats
 
 <p align="center">
-  <img alt="Martin Gonzalo Cabral's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=GON-CAB-8&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
-  <img alt="Martin Gonzalo Cabral's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GON-CAB-8&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+  ![Martin Gonzalo Cabral's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GON-CAB-8&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+  ![Martin Gonzalo Cabral's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GON-CAB-8&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 </p>
 
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img alt="Martin Gonzalo Cabral's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GON-CAB-8&theme=react&hide_border=true" height="180px"/>
+  ![Martin Gonzalo Cabral's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GON-CAB-8&theme=tokyonight&hide_border=true)
 </p>
 
 ### 📊 Activity Graph
 
 <p align="center">
-  <img alt="Martin's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GON-CAB-8&bg_color=1F222E&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" height="200px"/>
+  ![Martin's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GON-CAB-8&bg_color=1F222E&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true)
 </p>
-
-
-
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=GON-CAB-8&label=Profile%20Views&color=3&icon=3&pretty=false" alt="Profile Views" />
+  ![Profile Views](https://visitcount.itsvg.in/api?id=GON-CAB-8&label=Profile%20Views&color=3&icon=3&pretty=false)
 </p>
+
+
 
 
